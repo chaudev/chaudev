@@ -1,5 +1,7 @@
-- Hi, I’m Nguyen Phuc Bao Chau
-- I’m mobile developer with Android native and React Native skill
+- Hi, I’m Nguyen Phuc Bao Chau.
+- I’m mobile developer (Android, IOS).
+- My skill: Java, React Native (JavaScript, TypeScript), HTML.
+- I worked at FPT Infomation System, Mona Media (now).
 
 - My website: http://baochau.ml
 - My email: chau.02it@gmail.com
