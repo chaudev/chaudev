@@ -1,5 +1,7 @@
 Hi, I'm Nguyen Phuc Bao Chau, a Frontend Developer with over 2 years of experience in developing high-quality web and mobile applications. 
+
 I also have a remarkable record of publishing apps on both the ch play and app store. 
+
 With a deep understanding of HTML, CSS, and JavaScript, I have the ability to design and develop user-optimized products that meet the stringent requirements of clients.
 
 My skill: Java, React Native (JavaScript, TypeScript), HTML ✨ 
