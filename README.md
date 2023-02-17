@@ -4,10 +4,14 @@ I also have a remarkable record of publishing apps on both the ch play and app s
 
 With a deep understanding of HTML, CSS, and JavaScript, I have the ability to design and develop user-optimized products that meet the stringent requirements of clients.
 
+
 My skill: Java, React Native (JavaScript, TypeScript), HTML ✨ 
+
 I worked at FPT Infomation System, Mona Media (now) 😳
 
+
 My website: https://ischau.org/nguyen-phuc-bao-chau
+
 My email: chau.02it@gmail.com
 
 <!---
