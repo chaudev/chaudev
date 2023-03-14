@@ -12,6 +12,8 @@ I worked at FPT Infomation System, Mona Media (now) 😳
 
 My website: https://ischau.org/nguyen-phuc-bao-chau
 
+My project: https://dovuihainao.com
+
 My email: chau.02it@gmail.com
 
 <!---
