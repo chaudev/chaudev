@@ -7,7 +7,7 @@ With a deep understanding of HTML, CSS, and JavaScript, I have the ability to de
 
 My skill: Java, React Native (JavaScript, TypeScript), HTML ✨ 
 
-I worked at FPT Infomation System, Mona Media (now) 😳
+I worked at FPT Information System, Mona Media (now) 😳
 
 
 My website: https://ischau.org/nguyen-phuc-bao-chau
