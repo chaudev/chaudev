@@ -1,22 +1,4 @@
-Hi, I'm Nguyen Phuc Bao Chau, a Frontend Developer with over 2 years of experience in developing high-quality web and mobile applications. 
+I'm a developer with 6 years of experience, mostly working with React and React Native. Most of my time goes into mobile and web frontend, but I also know enough NestJS and Docker to build and deploy the backend myself when a project needs it. I can take an idea and turn it into a finished product on my own, from building the UI and writing the logic to shipping the app on the App Store and Google Play. So far I've worked on more than 20 apps and websites, which has taught me the difference between something that runs and something people actually want to use. What you see here is part of what I've built and what I'm working on now. If something catches your eye, feel free to reach out.
 
-I also have a remarkable record of publishing apps on both the ch play and app store. 
-
-With a deep understanding of HTML, CSS, and JavaScript, I have the ability to design and develop user-optimized products that meet the stringent requirements of clients.
-
-
-My skill: Java, React Native (JavaScript, TypeScript), HTML ✨ 
-
-I worked at FPT Information System, Mona Media (now) 😳
-
-
-My website: https://ischau.org/nguyen-phuc-bao-chau
-
-My project: https://dovuihainao.com
-
-My email: chau.02it@gmail.com
-
-<!---
-chaudev/chaudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My website: https://dosieungon.com
+My project: https://byesan.vn
